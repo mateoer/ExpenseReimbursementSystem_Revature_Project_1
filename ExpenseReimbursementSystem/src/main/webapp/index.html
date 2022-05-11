@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Expense Reimbursement System</title>
+
+<link rel="stylesheet" type="text/css" href="/ExpenseReimbursementSystem/resources/css/style.css"/>
+</head>
+<body>
+	
+	<div class="login-container">
+		<h2 class="nonactive">expense reimbursement system</h2>
+		<br>
+		
+		<!-- FORWARDING SERVLET EXAMPLE -->
+		<!-- <form method="post" action="http://localhost:9002/HelloFrontController/forwarding/login"> -->
+		<form method="POST" action="/ExpenseReimbursementSystem/login">
+			
+			
+			<input type="text" class= "text"  name="theirUsername"/>
+			<span>username</span>
+			<br><br>
+			<input type="text" class= "text"  name="theirPassword"/>
+			<span>password</span>
+			<br>
+			<button type="submit" class="signin">login</button>
+		</form>	
+		
+	</div>
+</body>
+</html>
