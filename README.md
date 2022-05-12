@@ -24,7 +24,7 @@ List of features ready and TODOs for future development
 * Request, Approve and Deny functionalities
 
 To-do list:
-* Additional safe measures to destroy session upon hitting "Go back" button
+* Additional safety measures to destroy session upon hitting "Go back" button
 
 
 ## Getting Started
