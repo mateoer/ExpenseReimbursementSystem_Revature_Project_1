@@ -88,9 +88,14 @@ To-do list:
 <br />
 
 - Employee
+
 - ![Alt text](/ERS_Screenshots/employee snip.PNG?raw=true "Employee page")
+<br />
+
 - Finance Manager
+
 - ![Alt text](/ERS_Screenshots/fManagersnip.PNG?raw=true "Finance Manager page")
+<br />
 
 ## License
 
