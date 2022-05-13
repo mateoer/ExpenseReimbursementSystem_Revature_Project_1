@@ -71,6 +71,7 @@ To-do list:
 -  This is the landing page of the project.
 <br />
 
+- Now the project is ready to go
 - To log in with authorized credentials use:
 >                         username     password
 >                         
@@ -79,7 +80,7 @@ To-do list:
 >     Finance Manager       admin          abc
 <br />
 
--  Now the project is ready to go
+
 
 ## License
 
