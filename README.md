@@ -66,11 +66,11 @@ To-do list:
 -  This is the landing page of the project.
   
 - To enter with authorized credentials use:
->                          username   password
+>                           username   password
 >                         
->     **Employee**             mateoer         123
+>     Employee             mateoer         123
 >  
->     **Finance Manager**       admin          abc
+>     Finance Manager       admin          abc
 
 
 
