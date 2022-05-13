@@ -77,7 +77,7 @@ To-do list:
 >     Finance Manager       admin          abc
 
 
--Now the project is ready to go
+-  Now the project is ready to go
 
 ## License
 
