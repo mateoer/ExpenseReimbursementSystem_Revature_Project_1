@@ -68,9 +68,9 @@ To-do list:
 - To enter with authorized credentials use:
 >                          username   password
 >                         
->  **Employee**             mateoer         123
+>     **Employee**             mateoer         123
 >  
->  **Finance Manager**       admin          abc
+>     **Finance Manager**       admin          abc
 
 
 
