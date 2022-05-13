@@ -51,22 +51,24 @@ To-do list:
 >    TRAINING_DB_PASSWORD -> password
 - In a DB application (DBeaver) connected to the AWS endpoint make a new database and name it ERS_DB. Then run the script ERS_DB.sql in this repository. 
    Note that the script is in PostgreSQL
-
+-
 - Load your Java IDE (in this case Spring STS v3). 
 - Go to **File** **>** **Open Project from File System** and select this project
   **Expense Reimbursement System** wherever it was downloaded in your system
 
-
+-
 - Once Tomcat is installed and ready to run, on the **Servers** panel on Spring STS right click, **New > Server > Apache > Tomcat v9.0 Server** 
 -  Double click on the newly created server icon and for **HTTP/1.1** put **9005** under Port Number
 -  Right click on the newly created server icon again and select **Add and Remove**. Select the project name on the Available panel, **Add >**
 -  It will move the project to the Configured panel, click **Finish**
 -  Start the server by clicking on the Start button (or Ctrl+Alt+R)
-  
+
+-
 -  Once the server is up and running go to a web browser and type in:
 -    http://localhost:9005/ExpenseReimbursementSystem/index.html
 -  This is the landing page of the project.
-  
+
+-
 - To enter with authorized credentials use:
 >                         username     password
 >                         
@@ -75,7 +77,7 @@ To-do list:
 >     Finance Manager       admin          abc
 
 
-
+-Now the project is ready to go
 
 ## License
 
