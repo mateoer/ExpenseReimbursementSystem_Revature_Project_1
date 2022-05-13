@@ -89,7 +89,7 @@ To-do list:
 
 - Employee
 
-- ![Alt text](/ERS_Screenshots/employee snip.PNG?raw=true "Employee page")
+- ![Alt text](/ERS_Screenshots/employeesnip.PNG?raw=true "Employee page")
 <br />
 
 - Finance Manager
