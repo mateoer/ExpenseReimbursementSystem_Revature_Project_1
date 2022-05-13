@@ -76,6 +76,8 @@ To-do list:
 -  This is the landing page of the project.
 <br />
 
+- ![Alt text](/ERS_Screenshots/landing.PNG?raw=true "Landing page")
+
 - Now the project is ready to go
 - To log in with authorized credentials use:
 >                         username     password
