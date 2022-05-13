@@ -62,13 +62,13 @@ To-do list:
 -  Start the server by clicking on the Start button (or Ctrl+Alt+R)
   
 -  Once the server is up and running go to a web browser and type in:
-     http://localhost:9005/ExpenseReimbursementSystem/index.html
+-    http://localhost:9005/ExpenseReimbursementSystem/index.html
 -  This is the landing page of the project.
   
 - To enter with authorized credentials use:
- -                         **username**   **password**
-  - **Employee**             mateoer         123
-  - **Finance Manager**       admin          abc
+>                         **username**   **password**
+> **Employee**             mateoer         123
+> **Finance Manager**       admin          abc
 
 
 
