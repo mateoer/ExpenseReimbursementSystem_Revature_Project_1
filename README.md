@@ -87,7 +87,10 @@ To-do list:
 >     Finance Manager       admin          abc
 <br />
 
-
+- Employee
+- ![Alt text](/ERS_Screenshots/employee snip.PNG?raw=true "Employee page")
+- Finance Manager
+- ![Alt text](/ERS_Screenshots/fManagersnip.PNG?raw=true "Finance Manager page")
 
 ## License
 
