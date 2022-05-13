@@ -45,7 +45,9 @@ To-do list:
 - Once an AWS DB is ready make sure to save the endpoint, port number, username, and password
 - Then save them in an environment variable on the local system as this:
 >    TRAINING_DB_ENDPOINT -> endpoint and port
+>    
 >    TRAINING_DB_USERNAME -> username
+>    
 >    TRAINING_DB_PASSWORD -> password
 - In a DB application (DBeaver) connected to the AWS endpoint make a new database and name it ERS_DB. Then run the script ERS_DB.sql in this repository. 
    Note that the script is in PostgreSQL
