@@ -76,7 +76,7 @@ To-do list:
 -  This is the landing page of the project.
 <br />
 
-- ![Alt text](/ERS_Screenshots/landing.PNG?raw=true "Landing page")
+![Alt text](/ERS_Screenshots/landing.PNG?raw=true "Landing page")
 
 - Now the project is ready to go
 - To log in with authorized credentials use:
@@ -89,12 +89,12 @@ To-do list:
 
 - Employee
 
-- ![Alt text](/ERS_Screenshots/employeesnip.PNG?raw=true "Employee page")
+![Alt text](/ERS_Screenshots/employeesnip.PNG?raw=true "Employee page")
 <br />
 
 - Finance Manager
 
-- ![Alt text](/ERS_Screenshots/fManagersnip.PNG?raw=true "Finance Manager page")
+![Alt text](/ERS_Screenshots/fManagersnip.PNG?raw=true "Finance Manager page")
 <br />
 
 ## License
