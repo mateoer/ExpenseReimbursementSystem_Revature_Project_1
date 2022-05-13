@@ -53,7 +53,12 @@ To-do list:
    Note that the script is in PostgreSQL
 <br />
 
-- Load your Java IDE (in this case Spring STS v3). 
+- Load your Java IDE (in this case Spring STS v3).
+- **Note: in order to run this project we need a local server (that's what Tomcat is for)**
+- **and an IDE that can start servers. Though most Java IDEs have that functionality, the steps to configure/run servers may vary**
+- **In this tutorial we will be using Spring STS** 
+<br />
+
 - Go to **File** **>** **Open Project from File System** and select this project
   **Expense Reimbursement System** wherever it was downloaded in your system
 <br />
